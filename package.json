@@ -134,7 +134,7 @@
     "jszip": "^3.10.1",
     "katex": "^0.16.11",
     "kbar": "0.1.0-beta.41",
-    "koa": "^2.15.3",
+    "koa": "kindredcz/koa#v2.15.3",
     "koa-body": "^6.0.1",
     "koa-compress": "^5.1.1",
     "koa-helmet": "^6.1.0",
@@ -368,5 +368,6 @@
     "qs": "6.9.7",
     "rollup": "^4.5.1"
   },
-  "version": "0.81.1"
+  "version": "0.81.1",
+  "packageManager": "yarn@3.6.1+sha512.de524adec81a6c3d7a26d936d439d2832e351cdfc5728f9d91f3fc85dd20b04391c038e9b4ecab11cae2b0dd9f0d55fd355af766bc5c1a7f8d25d96bb2a0b2ca"
 }
